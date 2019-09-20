@@ -450,7 +450,7 @@ STR_1061    :Tryb normalny
 STR_1062    :Tryb pracy ciągłej
 STR_1063    :Reverse-Incline launched shuttle mode
 STR_1064    :Powered launch (passing station)
-STR_1065    :Shuttle mode
+STR_1065    :Tryb wahadłowy
 STR_1066    :Tryb wynajmu łodzi
 STR_1067    :Upward launch
 STR_1068    :Rotating lift mode
@@ -510,7 +510,7 @@ STR_1121    :Zatrzymuje się
 STR_1122    :Oczekuje na pasażerów
 STR_1123    :Oczekuje na start
 STR_1124    :Działa
-STR_1125    :Dizała
+STR_1125    :Działa
 STR_1126    :Zatrzymuje się
 STR_1127    :Rozładunek pasażerów
 STR_1128    :Zatrzymane przez hamulce blokowe
